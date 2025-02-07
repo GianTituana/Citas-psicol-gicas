@@ -59,4 +59,3 @@ public class Main {
         System.out.println(citaPresencial.detalles());
     }
 }
-2. Hoteles
